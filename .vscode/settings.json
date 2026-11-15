@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\graph\\miniconda3\\envs\\rl2-thesis\\python.exe",
+    "python.analysis.extraPaths": [
+        "experiments",
+        "experiments/analysis",
+        "experiments/analysis/kmeans"
+    ]
+}
